@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONE</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+<body  class="login-body">
+    <header>
+        <a href="./main.html"><h2 class="logo">One</h2></a>
+        <nav id="main-navi">
+            <ul class="main-ul">
+                <li class="main-li"><a href="#" class="a-li">Home</a></li>
+                <li class="main-li"><a href="#" class="a-li">Contact</a></li>
+                <li class="main-li"><a href="#" class="a-li">About</a></li>
+            </ul>
+        </nav>
+        <a href="#" id="Time" onload="realTime()"><h2></h2></a>
+    </header>
+
+    <main>
+        <div class="calc">
+            <h1>Calculator</h1>
+            
+            <input id="firstNo" type="text">
+            <input id="secondNo" type="text">
+            <button id = 'add' onclick="calculatorAdd()"> + </button>
+           
+            <h3>Answer</h3>
+            <a href="#" id="op" onclick="calculator() "><h2></h2></a>
+        </div>
+    </main>
+
+
+    <script src="../js/index.js"></script> 
+</body>
+</html>

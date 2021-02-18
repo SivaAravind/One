@@ -1,0 +1,111 @@
+/* Login page */
+
+*{
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: medium;
+    font-weight: normal;
+
+}
+.login-body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #069, #0f6);
+    min-height: 100vh;
+}
+
+#navi{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color: blanchedalmond;
+    padding: 15px;
+}
+a:link{
+   
+    text-decoration: none;
+    cursor: pointer;
+
+}
+h6{
+    color: white;
+    justify-content: center;
+    align-content: center;
+    
+
+}
+.iplogin{
+    padding: .25rem;
+    margin: .25rem;
+    border-radius: .5rem;
+    box-shadow: none;
+    border-color: lightblue;
+    border-style: none;
+}
+.butn{
+    padding: .5rem;
+    margin: .5rem;
+    border-radius: .5rem;
+    box-shadow: none;
+    border-style: none;
+    color: #fff;
+    background: rgb(62, 188, 238);
+}
+.butn :active{
+    border-color: lightgreen;
+}
+#info{
+    padding: 1rem;
+    margin: 1rem;
+}
+.iplogin-div{
+    display: table;
+    align-content: space-around;
+}
+.butnlogin-div{
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.login{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+/* main page */
+
+.main-ul{
+    list-style: none;
+}
+.main-li{
+    font-size: large;
+    display: inline-block;
+    padding: 15px 20px;
+}
+.main-li a{
+    
+    transition: all 0.3s ease 0s;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+#Time{
+    padding: 15px;
+    color: whitesmoke;
+}
+
+.a-li{
+    font-style: normal;
+    font-weight: normal;
+    color: whitesmoke;
+}
+
+.logo{
+    padding: 15px;
+}
