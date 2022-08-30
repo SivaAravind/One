@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T10:49:20.847Z" agent="5.0 (Windows)" etag="TL9zHIAYmn61S6Xk0nFa" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T10:51:41.796Z" agent="5.0 (Windows)" etag="AECfKtUxPhXOOV0LwnYP" version="20.2.7" type="github">
   <diagram id="A2XSHuqJlMq8rNMNuziP" name="Page-1">
     <mxGraphModel dx="2850" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="5oaeEAeBF5l6Jmh7AZM0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZJu1gmb1K3_EzXzDdYMx-19" target="ZJu1gmb1K3_EzXzDdYMx-107">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaeEAeBF5l6Jmh7AZM0-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Facto - Architecture&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="470" height="90" as="geometry" />
         </mxCell>
         <object label="AWS" id="ZJu1gmb1K3_EzXzDdYMx-7">
           <mxCell parent="0" />
