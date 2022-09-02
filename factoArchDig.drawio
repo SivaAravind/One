@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T10:44:33.782Z" agent="5.0 (Windows)" etag="PltUQgqmgkIynqQ3k493" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T06:19:23.472Z" agent="5.0 (Windows)" etag="vUF7zQyn1Ppo3ZXW5CHf" version="20.2.7" type="github">
   <diagram id="A2XSHuqJlMq8rNMNuziP" name="Page-1">
-    <mxGraphModel dx="1701" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </object>
         <mxCell id="5oaeEAeBF5l6Jmh7AZM0-32" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="ZJu1gmb1K3_EzXzDdYMx-52" vertex="1">
           <mxGeometry y="600" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk3Wz_jAm6AHYX7bH5L1-2" value="facto-frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5oaeEAeBF5l6Jmh7AZM0-32">
+          <mxGeometry x="-20" y="160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5oaeEAeBF5l6Jmh7AZM0-33" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="ZJu1gmb1K3_EzXzDdYMx-52" vertex="1">
           <mxGeometry x="280" y="80" width="760" height="1200" as="geometry" />
@@ -235,6 +238,9 @@
         </mxCell>
         <mxCell id="5oaeEAeBF5l6Jmh7AZM0-215" value="facto-api-11-dev-facto-get-bulk-upload-url-lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5oaeEAeBF5l6Jmh7AZM0-193" vertex="1">
           <mxGeometry x="20" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk3Wz_jAm6AHYX7bH5L1-1" value="facto-api-20-dev-facto-fetch-cases-status-count-lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5oaeEAeBF5l6Jmh7AZM0-193">
+          <mxGeometry x="190" y="990" width="170" height="30" as="geometry" />
         </mxCell>
         <object label="Additional Services" id="ZJu1gmb1K3_EzXzDdYMx-106">
           <mxCell parent="0" />
